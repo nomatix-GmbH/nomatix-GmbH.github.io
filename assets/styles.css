@@ -1,0 +1,23 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1024px;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 300;
+}
+
+.content {
+    margin-top: 15rem;
+}
+
+.logo img {
+    width: 250px;
+}
+
+.contact-details {
+    padding-left: 6px;
+}
